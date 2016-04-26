@@ -4,3 +4,4 @@ Fluent::Logger.post("Qualia.cli.follow", {"from"=>"userA", "to"=>"userB"}
 # test
 # test
 # test
+# test2
